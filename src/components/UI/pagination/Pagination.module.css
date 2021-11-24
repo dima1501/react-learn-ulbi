@@ -1,0 +1,19 @@
+.Pagination {
+    margin: 30px 0;
+    display: flex;
+}
+
+.Pagination__btn {
+    margin: 0 10px;
+    border: 1px solid teal;
+    color: teal;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.active {
+    background-color: teal;
+    color: white;
+}
